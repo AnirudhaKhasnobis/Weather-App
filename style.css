@@ -3,7 +3,7 @@ body{
     font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display:flex;
     align-items: center;
-    justify-content: centre;
+    justify-content: center;
     height: 100vh;
     margin:0;    
 }
@@ -95,3 +95,8 @@ button:hover{
     margin-top: 10px;  
 }
 
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
